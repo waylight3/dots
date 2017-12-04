@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// 게임 플레이 관리
+// 게임 초기화 스크립트
 public class Play : MonoBehaviour {
 
     public int grid_size_x = 11;
